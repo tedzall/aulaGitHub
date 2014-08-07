@@ -32,6 +32,24 @@
 Fim da primeira versão
 ---
 
+##Seguindo Instruções
+
+Houve erro ao fazer um push. Foi preciso fazer um pull para o repositório local estivesse atualizado  
+com o repositório remoto.  
+Feito isso, foi feito o push normalmente.
+
+* Verificar os arquivos que podem ser adicionados ao repositório:
+ * git status
+* Adicionar o README modificado:
+ * git add README
+* Comittar READM:
+ * git commit -m 'Último commit do dia ... versao 2.0'
+* Dar um push no READM para o repositório remoto:
+ * git push origin master
+* Publicar link do repositório
+
+Fim da segunda versão 
+---
  
  
  

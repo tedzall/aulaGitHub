@@ -18,11 +18,20 @@
 * Iniciar o rastreamento git do diretório local com o comando:
  * git init
 * Indicar ao rastreamento git o caminho do repositório no GitHub através do comando:
- * git remote add origin git@github.com:tedzall/aulaGitHub.git
+ * git remote add origin http://github.com/tedzall/aulaGitHub.git
 * Criar um arquivo README usando comando:
  * touch README
 * Editar o arquivo README com notepad++ com algumas instruções
 * Adicionar o README ao repositório **aulaGitHub** para ele tornar-se versionável:
  * git add README
-*  
+* Próxima etapa é **commitar** o arquivo com o comando:
+ * git commit -m "Primeiro commit realizado ... versao 1.0"
+* Fazer um **push** para atualizar o repositório remoto:
+ * git push origin master
+
+Fim da primeira versão
+---
+
+ 
+ 
  

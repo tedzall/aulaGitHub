@@ -1,0 +1,28 @@
+#AulaGit.GitHub
+
+##Fazendo o Primeiro Push
+
+1.Criar arquivo README
+2.Comitt
+3.Push no GitHub
+4.Versionar Arquivo
+5.Push na nova versao
+
+##Instruções
+
+* Criar no GitHub o repositório **aulaGitHub**
+* No Git Bash criar o diretório local **aulaGitHub** usando o comando:
+ * mkdir aulaGitHub
+* Acessar o diretório local **aulaGitHub** com o comando:
+ * cd aulaGitHub/
+* Iniciar o rastreamento git do diretório local com o comando:
+ * git init
+* Indicar ao rastreamento git o caminho do repositório no GitHub através do comando:
+ * git remote add origin git@github.com:tedzall/aulaGitHub.git
+* Criar um arquivo README usando comando:
+ * touch README
+* Editar o arquivo README com notepad++ com algumas instruções
+* Adicionar o README ao repositório **aulaGitHub** para ele tornar-se versionável:
+ * git add README
+*  
+ 
